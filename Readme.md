@@ -26,9 +26,11 @@ The application follows a tool-based reasoning pipeline:
 
 ---
 
-## 🖼️ Architecture Diagram
 
-![System Architecture](assets/architecture.png)
+## 🖥️ Application Interface
+
+![Streamlit App UI](assets/img_1_add.png)
+![Streamlit App UI](assets/img_1_response.png)
 
 ---
 
@@ -49,14 +51,7 @@ The application follows a tool-based reasoning pipeline:
 - **Model**: `llama-3.1-8b-instant`
 - **Role**: Reasoning, tool selection, response generation
 
----
 
-## 🖥️ Application Interface
-
-![Streamlit App UI](assets/img_1_add.png)
-![Streamlit App UI](assets/img_1_response.png)
-
----
 
 ## 🚀 How to Run the Project
 
