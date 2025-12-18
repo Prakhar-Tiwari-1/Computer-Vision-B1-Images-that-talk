@@ -116,16 +116,11 @@ Restart your terminal after setting the key.
 ### Run the Streamlit Application
 streamlit run main.py
 
-📖 How to Use
+## 📖 How to Use
 
-Upload an image (.jpg, .jpeg, .png)
-
-Ask a question such as:
-
-“Describe this image”
-
-“What objects are present?”
-
-“Is there a person in the image?”
-
-The agent selects the appropriate vision tool and returns a response
+1. Upload an image (`.jpg`, `.jpeg`, `.png)
+2. Ask a question such as:
+   - “Describe this image”
+   - “What objects are present?”
+   - “Is there a person in the image?”
+3. The agent selects the appropriate vision tool and returns a response
