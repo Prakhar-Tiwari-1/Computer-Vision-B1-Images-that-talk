@@ -53,8 +53,8 @@ The application follows a tool-based reasoning pipeline:
 
 ## 🖥️ Application Interface
 
-![Streamlit App UI](assets/img 1 add.png)
-![Streamlit App UI](assets/img 1 response.png)
+![Streamlit App UI](assets/img_1_add.png)
+![Streamlit App UI](assets/img_1_response.png)
 
 ---
 
